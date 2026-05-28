@@ -2,35 +2,7 @@
 
 ## Introduction
 
-Ambermoon.net is a full C# rewrite of Ambermoon and will run at least on Windows, Linux and Mac.
-
-### Download
-
-Version 1.13.2 is the most recent version from May 20th, 2026. It includes [original version 1.20](https://github.com/Pyrdacor/Ambermoon) and also [Ambermoon Advanced 1.33](https://github.com/Pyrdacor/Ambermoon-Advanced).
-
-You can also download the game on my website at www.pyrdacor.net!
-
-Platform | Download 1.13.2
---- | :-:
-**Windows 64bit** | [Link](https://ambermoon-net.pyrdacor.net/download/recent/Ambermoon.net-Windows.zip)
-**Linux 64bit** | [Link](https://ambermoon-net.pyrdacor.net/download/recent/Ambermoon.net-Linux.tar.gz)
-**Mac 64bit (Intel processor)** | [Link](https://ambermoon-net.pyrdacor.net/download/recent/Ambermoon.net-Mac.zip)
-**Mac 64bit (ARM processor, M1, M2, etc)** | [Link](https://ambermoon-net.pyrdacor.net/download/recent/Ambermoon.net-Mac-ARM.zip)
-**Windows 32bit** | [Link](https://ambermoon-net.pyrdacor.net/download/recent/Ambermoon.net-Windows32Bit.zip)
-
-
-Problems? The [FAQ](FAQ.md) might help.
-
-Other platforms like Android, iOS or Raspberry Pi4 might follow later.
-
-[![Build status](https://ci.appveyor.com/api/projects/status/cr6temgl1vknho6t?svg=true)](https://ci.appveyor.com/project/Pyrdacor/ambermoon-net)
-
-### Amiga versions
-
-If you are interested in the original Amiga game files you can find them here: https://github.com/Pyrdacor/Ambermoon. I released some
-new versions and patches of the original game files there as well.
-
-A completely new game extension was also released called [Ambermoon Advanced](https://GitHub.com/Pyrdacor/Ambermoon-Advanced). Check it out!
+Lezgimoon is remake.
 
 ### Additional Resources
 
@@ -46,20 +18,8 @@ A completely new game extension was also released called [Ambermoon Advanced](ht
 
 - (*English*) New to Ambermoon? Please have a look [here](FirstPlay.md). \
 If you have questions feel free to ask via [email](mailto:trobt@web.de), on [Twitter](https://twitter.com/Pyrdacor) or here on GitHub on the [issues page](https://github.com/Pyrdacor/Ambermoon.net/issues). Some more info follows below as well.
-- (*German*) Du kennst Ambermoon noch nicht? Schau bitte [hier](FirstPlay.md). \
-Wenn du Fragen hast, meld dich einfach per [Email](mailto:trobt@web.de), auf [Twitter](https://twitter.com/Pyrdacor) oder hier auf GitHub unter [Issues](https://github.com/Pyrdacor/Ambermoon.net/issues). Weiter unten gibt es auch noch einige Infos.
 
-### Support the project
 
-I appreciate all kind of support for this project. If you want to donate to help increase my motivation and allow me to spend more time developing this Ambermoon project and similar projects like a 3rd part of the trilogy or map and character editors, you can do so here. \
-- <a href="https://www.patreon.com/bePatron?u=44764566"><img src="https://github.com/Pyrdacor/github-images/blob/main/patreon.svg" width="140" height="28" alt="Become a patron" /></a>
-- <a href="https://github.com/sponsors/Pyrdacor"><img src="https://github.com/Pyrdacor/github-images/blob/main/sponsor.svg" width="70" height="24" alt="Sponsor" /></a>
-- <a href="https://ko-fi.com/pyrdacor"><img src="https://storage.ko-fi.com/cdn/cup-border.png" width="39" alt="Sponsor" /> Buy me a coffee</a>
-- [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=76DV5MK5GNEMS&source=url)
-- [![Flattr](https://ambermoon-net.pyrdacor.net/assets/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Pyrdacor&url=https://github.com/Pyrdacor/Ambermoon.net&title=Ambermoon.net&language=C#&tags=github&category=software) \
-Thank you very much.
-
-I will also post updates about releases and interesting stuff on twitter: https://twitter.com/Pyrdacor
 
 ## Screenshots
 
@@ -170,88 +130,11 @@ PrintScreen or Ctrl + P | Saves a screenshot to the folder "Screenshots" next to
 
 ## Configuration
 
-Ambermoon.net can be configured ingame but also via a configuration file.
+Lezgimoon can be configured ingame but also via a configuration file.
 See [Configuration](Configuration.md) for more details.
-
-
-## Changelog
-
-You can find the full changelog [here](changelog.md). You can also look at the [releases](https://github.com/Pyrdacor/Ambermoon.net/releases). They have more details in general.
 
 
 ## Custom music
 
-You can use your own music with Ambermoon (e.g. the Atari music or the remixes from Matthias Steinwachs). For more details read [here](CustomMusic.md). \
-I also provide the Atari tracks [here](https://ambermoon-net.pyrdacor.net/download/music_atari.zip). Just extract the mp3 to a folder called "music" next to the main executable to enjoy the music. Note that not all tracks were converted to Atari so only 13 out of 32 tracks are available.
+You can use your own music with Lezgimoon. For more details read [here](CustomMusic.md). \
 
-
-## Special thanks
-
-Special thanks to my top patreons and github sponsors:
-
-- Philip Breitsprecher
-- Mike Valtix
-- Sebberick
-- Thomas Ritschel
-- Tschorle
-- Daniel Egger
-- Kaspar
-- NeXuS-Arts
-- timbo t
-- Other Retro Matt
-- Anton Huber
-- Lars
-- Robin Mattheussen
-- giom
-- Levidega
-- Lorenz P.
-- LoneRaider
-- MD
-- Unreality
-- Milan
-- Peter Holtgrewe
-- frostworx
-- meok meok
-- Martin Tramm
-- [Stay Forever](https://www.stayforever.de/)
-- Alexander Holland
-- Stephan Mankie
-- André Wösten
-- Benno
-- orgi
-- JR_Riketz
-- Wolfgang
-- Sprudel
-- NLS
-- Benjamin Ziebert
-- David Geiger
-- skobry
-- crediar
-- AMike
-- soulsuckingjerk
-- Mahen            
-- Teladi
-
-Special thanks to some special contributors and testers as well:
-- kermitfrog
-- a1exh (Alex Holland)
-- Metibor
-- Thallyrion
-- Uukrull
-- Nephilim
-- skdubg
-- crediar
-- nicode
-- Jurie Horneman
-- dlfrsilver and CFOU! (French translation)
-- galon3 (Polish translation)
-- Czudak (App icon, suggestion for a patreon page)
-
-
-## Other projects
-
-Checkout my already working 'SerfCity (Die Siedler) rewrite' at [freeserf.net](https://github.com/Pyrdacor/freeserf.net).
-
-I also created another github project called [Ambermoon](https://github.com/Pyrdacor/Ambermoon) for providing resources and research the game data. Feel free to have a look or contribute.
-
-And I work on a huge extension of Ambermoon called [Ambermoon Advanced](https://github.com/Pyrdacor/Ambermoon-Advanced).
