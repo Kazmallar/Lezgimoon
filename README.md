@@ -1,4 +1,4 @@
-# Ambermoon.net
+# Lezgimoon
 
 ## Introduction
 
